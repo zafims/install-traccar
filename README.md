@@ -1,3 +1,7 @@
+[Optional install-docker if Docker not install]
+
+bash -c "$(wget -qLO - https://raw.githubusercontent.com/bigbeartechworld/big-bear-scripts/master/install-docker/run.sh)"
+
 # install-traccar
 
 1. bash -c "$(wget -qLO - https://raw.githubusercontent.com/zafims/install-traccar/main/run.sh)"
