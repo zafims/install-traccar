@@ -14,6 +14,7 @@
 
 ---> Web Access: [IP Address]:8082 <---
 
+admin/admin
 
 ======================== Install TracCar Manually =========================
 
