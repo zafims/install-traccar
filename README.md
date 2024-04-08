@@ -18,10 +18,11 @@
 ======================== Install TracCar Manually =========================
 
 $ wget https://github.com/traccar/traccar/releases/download/v6.0/traccar-linux-64-6.0.zip
-$ls
 
-unzip traccar-linux-64-6.0.zip
+$ ls
 
-sudo ./traccar.run
+$ unzip traccar-linux-64-6.0.zip
 
-sudo systemctl start traccar
+$ sudo ./traccar.run
+
+$ sudo systemctl start traccar
